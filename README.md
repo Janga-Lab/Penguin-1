@@ -39,7 +39,8 @@ python main.py -i ~/fast5_directory/ -s ~/sam_directory/my_sam_file.sam -b ~/bed
 
 ## Built With
 
-* [Tensorflow](https://www.tensorflow.org/) - Used to generate ml models
+* Scikit-learn - used to generated ML models
+* Keras with [Tensorflow](https://www.tensorflow.org/) backend - Used to generate Neural network ML model.
 * [Scrappie](https://github.com/nanoporetech/scrappie) - Used as default basecaller
 
 ## Contributing
